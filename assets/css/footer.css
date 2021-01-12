@@ -1,0 +1,12 @@
+.responsive-footer {
+  clear: both;
+  position: fixed;
+  background: #cfc8c0;
+  overflow: hidden;
+  display: block;
+  bottom: 0;
+  width: 1920px;
+  float: left;
+  height: 5vh;
+}
+
